@@ -8,7 +8,7 @@ init_scheduler:
     mov byte [current_task], 0
     ret 
 
-schedule:
+scheduler:
 
     inc byte [current_task]
     cmp byte [current_task], MAX_TASKS 
