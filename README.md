@@ -1,15 +1,5 @@
 Microkernel x86-64 (Assembly)
 
-"Architecture" (https://img.shields.io/badge/architecture-x86--64-blue)
-"Language" (https://img.shields.io/badge/language-Assembly-orange)
-"Build" (https://img.shields.io/badge/build-NASM%20%2B%20LD-lightgrey)
-"Platform" (https://img.shields.io/badge/platform-Linux-black)
-"Emulator" (https://img.shields.io/badge/emulator-QEMU-red)
-"Status" (https://img.shields.io/badge/status-in%20development-yellow)
-"License" (https://img.shields.io/badge/license-MIT-green)
-
----
-
 Overview
 
 This project is a minimal microkernel written entirely in x86-64 Assembly, designed for low-level system understanding and experimental kernel engineering.
